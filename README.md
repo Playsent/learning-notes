@@ -17,6 +17,7 @@
 
 ## 记录入口
 
+- [2026-10-25：xv6 getpid 系统调用实验](notes/xv6/2026-10-25-getpid.md)
 - [2026-10-25：开始记录学习过程](daily/2026-10-25.md)
 - [每日记录模板](templates/daily.md)
 - [每周回顾模板](templates/weekly.md)
