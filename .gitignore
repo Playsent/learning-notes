@@ -1,0 +1,20 @@
+# 系统生成的文件
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 本地密钥与环境配置
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# 常见缓存与构建产物
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+dist/
+build/
